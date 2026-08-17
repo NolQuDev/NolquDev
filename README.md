@@ -1,24 +1,22 @@
 NolQu Ecosystem
 
 <p align="center">
-<img src="file_0000000099488207b59a0bfb5722342b.png" alt="NolQu Ecosystem">
+  <img src="file_0000000099488207b59a0bfb5722342b.png" alt="NolQu Ecosystem">
 </p><p align="center">
-<b>Quality built on a strong foundation.</b>
-</p>
+  <b>Quality built on a strong foundation.</b>
+</p>---
 
----
-
-About Me
+👋 About Me
 
 Hi, I'm Nadzil.
 
 I'm a developer and the creator of the NolQu Ecosystem, an independent technology ecosystem focused on programming languages, systems, software, and developer technologies.
 
-I enjoy exploring how software works from high-level concepts down to the machine level, and building technologies around that understanding.
+I enjoy exploring how software works—from high-level concepts down to the machine level—and building technologies around that understanding.
 
 ---
 
-What is NolQu?
+🌐 What is NolQu?
 
 NolQu is a technology ecosystem — not a single project.
 
@@ -28,21 +26,19 @@ The goal is to build these technologies on a strong and consistent foundation wh
 
 ---
 
-Development
+🚧 Development
 
 The NolQu Ecosystem is currently under active development.
 
-Official organization:
-
+Official Organization
 https://github.com/NolquDev
 
-My Github:
-
+My GitHub
 https://github.com/Nadzil123
 
 ---
 
-Creator
+👤 Creator
 
 Nadzil
 
@@ -51,5 +47,5 @@ Creator and maintainer of the NolQu Ecosystem.
 ---
 
 <p align="center">
-<b>NolQu — Quality built on a strong foundation.</b>
+  <b>NolQu — Quality built on a strong foundation.</b>
 </p>
