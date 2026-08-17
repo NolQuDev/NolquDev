@@ -4,7 +4,9 @@ NolQu Ecosystem
 <img src="file_0000000099488207b59a0bfb5722342b.png" alt="NolQu Ecosystem">
 </p><p align="center">
 <b>Quality built on a strong foundation.</b>
-</p>---
+</p>
+
+---
 
 About Me
 
