@@ -1,8 +1,8 @@
 <p align="center">
-<img src="IMG_20260315_215512.png">
+<img src="file_00000000ec588211a4dc3254c9aa7434.png">
 </p>
 
-<h1 align="center">Nolqu</h1>
+<h1 align="center">NolQu</h1>
 
 <p align="center">
 Official development account for <b>NolquLang</b>
@@ -18,7 +18,7 @@ The goal of Nolqu is to build a simple, fast, and embeddable programming languag
 
 ---
 
-## Nolqu Ecosystem
+## NolQu Ecosystem
 
 The Nolqu ecosystem is planned to include several components.
 
@@ -61,8 +61,8 @@ Nolqu is created and maintained by:
 
 **Nadzil**
 
-Creator of **NolquLang**
+Creator of **NolQu-L**
 
 ---
 
-⭐ Follow this organization to stay updated on the Nolqu ecosystem.
+⭐ Follow this organization to stay updated on the NolQu ecosystem.
