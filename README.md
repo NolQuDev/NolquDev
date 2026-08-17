@@ -2,8 +2,6 @@
 <img src="file_0000000099488207b59a0bfb5722342b.png">
 </p>
 
-<h1 align="center">NolQu</h1>
-
 <p align="center">
 Official development account for <b>NolquLang</b>
 </p>
