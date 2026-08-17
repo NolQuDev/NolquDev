@@ -32,7 +32,7 @@ The goal is to build these technologies on a strong and consistent foundation wh
 
 ## 🚧 Development
 
-The **NolQu Ecosystem is currently under active development.**
+The **NolQu Ecosystem is currently under development.**
 
 **Official Organization**  
 https://github.com/NolQuDev
