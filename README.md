@@ -35,7 +35,7 @@ The goal is to build these technologies on a strong and consistent foundation wh
 The **NolQu Ecosystem is currently under active development.**
 
 **Official Organization**  
-https://github.com/NolquDev
+https://github.com/NolQuDev
 
 **My GitHub**  
 https://github.com/Nadzil123
