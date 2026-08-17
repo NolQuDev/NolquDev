@@ -8,7 +8,7 @@ NolQu Ecosystem
 
 ---
 
-***About Me
+About Me
 
 Hi, I'm Nadzil.
 
@@ -36,7 +36,7 @@ Official organization:
 
 https://github.com/NolquDev
 
-My Githu:
+My Github:
 
 https://github.com/Nadzil123
 
