@@ -36,9 +36,9 @@ Official organization:
 
 https://github.com/NolquDev
 
-Main repository:
+My Githu:
 
-https://github.com/Nadzil123/Nolqu
+https://github.com/Nadzil123
 
 ---
 
